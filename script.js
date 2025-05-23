@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'YOUR_MAPBOX_ACCESS_TOKEN';
+mapboxgl.accessToken = 'pk.eyJ1IjoiYWhhZHh4MjE4IiwiYSI6ImNtYjB2bGQ4djB4bjUya3NoeXBuNGh0MjMifQ.MflYCvVk2gJfJ1ycSdLdqw';
 let destinationMarker = null;
 let directions = null;
 let styleToggle = false;
